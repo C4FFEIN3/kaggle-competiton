@@ -29,3 +29,18 @@ https://www.kaggle.com/c/titanic
 ANN을 이용한 학습 코드
 
 Score: 0.77033
+
+
+
+## NLP with disaster tweets
+
+https://www.kaggle.com/c/nlp-getting-started
+
+
+
+**nlp_disaster_twt.ipynb**
+
+LSTM을 이용한 학습 코드
+
+Score: 0.78834
+
