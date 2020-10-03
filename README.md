@@ -44,3 +44,10 @@ LSTM을 이용한 학습 코드
 
 Score: 0.78834
 
+
+
+**transformer-tf.ipynb**
+
+transformer를 이용한 학습 코드
+
+Score: 0.67483
