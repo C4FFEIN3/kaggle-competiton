@@ -26,7 +26,7 @@ https://www.kaggle.com/c/titanic
 
 **titanic_ann.ipynb**
 
-ANN을 이용한 학습 코드
+MLP을 이용한 학습 코드
 
 Score: 0.77033
 
