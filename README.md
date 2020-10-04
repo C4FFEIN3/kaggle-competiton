@@ -50,4 +50,4 @@ Score: 0.78834
 
 transformer를 이용한 학습 코드
 
-Score: 0.67483
+Score: 0.67300
